@@ -2,7 +2,7 @@ import cv2
 import time
 
 
-fire_cascade = cv2.CascadeClassifier('C:/Users/LENOVO/PycharmProjects/object-detaction/haarcacde/fire_detection.xml')
+fire_cascade = cv2.CascadeClassifier('C:/Users/LENOVO/PycharmProjects/object-detaction/haarcacde/fire_detection.xml') # add extension of xml file for Haar cascade model
 
 
 
